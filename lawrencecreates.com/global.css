@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style type="text/css">
+body {
+	background-color: #efefef;
+}
+.NavLink,  a:link, a:visited, .NavLink:active, .NavLink:visited, .NavLink:link {
+	font-family: "Arial Black", sans-serif;
+	font-size: 19px;
+	font-style: normal;
+	line-height: 18px;
+	font-weight: bold;
+	color: #999;
+	text-align: center;
+	vertical-align: middle;
+	padding:10px;
+	text-decoration:none;
+	}
+.EmbedLink ,  .EmbedLink:active, .EmbedLink:visited, .EmbedLink:link {
+	font-family: "Arial Black", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 18px;
+	font-weight: normal;
+	color: #900;
+	text-align: center;
+	vertical-align: middle;
+	padding:10px;
+	text-decoration:none;
+	}
+
+a:hover {
+	color: #000;
+}
+
+.Main {
+	padding: 20px;
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+			
+	}
+	
+.MainCopy {
+	padding:20px;
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+			
+	}
+</style>
